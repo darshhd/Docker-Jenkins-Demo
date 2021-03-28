@@ -4,7 +4,7 @@ pipeline {
 
     registry = "sankethshinde/demoproject"
 
-    registryCredential = 'docker-creds'
+    registryCredential = 'docker-hub'
 
     dockerImage = ''
 
